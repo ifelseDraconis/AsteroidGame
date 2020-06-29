@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c844ff757e934a04b8402c4ed2be5da1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kaBoom: {instanceID: 0}
+  - thisShip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

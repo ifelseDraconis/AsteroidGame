@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 43d53a7f5b06fdd459544b9771fe6307
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thisShip: {fileID: 7152138980001394472, guid: 438544ae7454de34fb4f96d98eb0cfdd,
+      type: 3}
+  - tf: {instanceID: 0}
+  - fireZone: {instanceID: 0}
+  - firingZone: {instanceID: 0}
+  - builtBySquare: {instanceID: 0}
+  - thisLazer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
